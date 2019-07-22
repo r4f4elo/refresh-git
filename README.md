@@ -1,5 +1,4 @@
-# 🤹🏻‍ refresh-git
-## Refresh your mind about everything about Git
+# 🤹🏻‍ Refresh Git - Refresh your mind about everything about Git.
 
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
 
@@ -16,6 +15,14 @@ This is used to identify the commits you create:
 `git config --global user.email "pablo.rafaelo@gmail.com"`
 
 > Tip: Not necessary if you will use GitHub Desktop.
+
+
+### Make Changes
+Shows the status of changes as untracked, modified, or staged.
+
+`git status`
+
+
 
 ## GIT CODE MANAGEMENT
 List of alternatives source/git code management
