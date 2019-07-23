@@ -1,6 +1,10 @@
-# 🤹🏻‍ Refresh Git
 
-Refresh your mind about everything about Git. This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
+<p align="center"> 
+    <h1 align="center">🤹🏻‍ Refresh Git</h1>
+    <h2 align="center">Refresh your mind about everything about Git</h2>
+</p>
+
+This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
 
 ## INSTALL
 - GUI: [Github desktop](https://github.com/desktop/desktop) 
