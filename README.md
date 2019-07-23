@@ -1,8 +1,10 @@
-
-<p align="center"> 
-    <h1 align="center">🤹🏻‍ Refresh Git</h1>
-    <h2 align="center">Refresh your mind about everything about Git</h2>
-</p>
+<div align="center">
+    <h1>🤹🏻‍ Refresh Git</h1>
+    <h3>Refresh your mind about everything about Git</h3>
+	<a href="https://github.com/ahmadawais/Emoji-Log/" >
+		<img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" />
+	</a>
+</div>
 
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
 
