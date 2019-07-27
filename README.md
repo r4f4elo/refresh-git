@@ -8,9 +8,9 @@
 		<img src="https://img.shields.io/travis/prafaelo/refresh-git.svg?&logo=travis&style=flat"
 			 alt="Travis Build Status">
 	</a>	  
+    <h3>Refresh your mind about everything about Git<h3>
 </div>
 
-### Refresh your mind about everything about Git
 
 ---
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
