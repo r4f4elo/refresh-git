@@ -73,7 +73,8 @@ Unstages the file, but preserve its contents:
 > When you're using two-factor authentication you a personal access token is required to authenticate to GitHub over HTTPS with Git on the command line or the API. [Find out more](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line).
 
 ## COMMIT MESSAGE GUIDELINES
-- [Emoji guide for commit messages](https://gitmoji.carloscuesta.me/)
+- [Gitmoji - Emoji guide for commit messages](https://gitmoji.carloscuesta.me/)
+- [Emoji Log - Emoji Git commit messages spec standard](https://github.com/ahmadawais/Emoji-Log/)
 - [Angula commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) 
 
 ## PRODUCT MANAGEMENT
