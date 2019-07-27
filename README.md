@@ -9,7 +9,6 @@
     <h3>Refresh your mind about everything about Git</h3>
 </div>
 
-https://img.shields.io/appveyor/ci/prafaelo/refresh-git?label=travis%20build
 ---
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
 
