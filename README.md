@@ -75,7 +75,8 @@ Unstages the file, but preserve its contents:
 > Tip: use only `$ git reset` for reset all files.
 
 Discard changes in working directory
-`git checkout <file>`
+
+`$ git checkout <file>`
 
 ## TROUBLESHOOTING
 - Git push results in “Authentication Failed”:
