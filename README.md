@@ -1,11 +1,15 @@
 <div align="center">
     <h1>🤹🏻‍ Refresh Git</h1>
-	<a href="https://github.com/ahmadawais/Emoji-Log/" >
-		<img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" />
+    <a href="https://github.com/ahmadawais/Emoji-Log/" >
+		<img  src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" alt="emoji-log" />
 	</a>
+    <a href="https://travis-ci.org/prafaelo/refresh-git" >
+		<img alt="Trevis Build Status" src="https://img.shields.io/travis/prafaelo/refresh-git.svg?style=flat&logo=travis& alt="Travis Build Status" />
+    </a>
     <h3>Refresh your mind about everything about Git</h3>
 </div>
 
+https://img.shields.io/appveyor/ci/prafaelo/refresh-git?label=travis%20build
 ---
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
 
@@ -68,6 +72,15 @@ Unstages the file, but preserve its contents:
 ## TROUBLESHOOTING
 - Git push results in “Authentication Failed”:
 > When you're using two-factor authentication you a personal access token is required to authenticate to GitHub over HTTPS with Git on the command line or the API. [Find out more](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line).
+
+## COMMIT MESSAGE GUIDELINES
+- [Emoji guide for commit messages](https://gitmoji.carloscuesta.me/)
+- [Angula commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) 
+
+## PRODUCT MANAGEMENT
+- [Dynamic badges for open source projects](https://shields.io/)
+- [Documentation for the open source community](https://github.com/readthedocs/)
+- [Code Coverage](https://codecov.io/)
 
 ## GIT CODE MANAGEMENT
 List of alternatives source/git code management
