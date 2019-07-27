@@ -1,13 +1,16 @@
 <div align="center">
-    <h1>🤹🏻‍ Refresh Git</h1>
-    <a href="https://github.com/ahmadawais/Emoji-Log/" >
-		<img  src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" alt="emoji-log" />
+	<h1>🤹🏻‍ Refresh Git</h1>
+	<a href="https://github.com/ahmadawais/Emoji-Log/" >
+		<img src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" 
+		     alt="emoji-log">
 	</a>
-    <a href="https://travis-ci.org/prafaelo/refresh-git" >
-		<img src="https://img.shields.io/travis/prafaelo/refresh-git.svg?style=flat&logo=travis& alt="Travis Build Status" />
-    </a>
-    <h3>Refresh your mind about everything about Git</h3>
+	<a href="https://travis-ci.org/prafaelo/refresh-git">
+		<img src="https://img.shields.io/travis/prafaelo/refresh-git.svg?&logo=travis&style=flat"
+			 alt="Travis Build Status">
+	</a>	  
 </div>
+
+### Refresh your mind about everything about Git
 
 ---
 This cheat sheet summarizes everything useful commonly used Git and GitHub for quick reference.
