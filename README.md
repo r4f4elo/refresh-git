@@ -88,6 +88,9 @@ Unstages the file, but preserve its contents:
 - [Documentation for the open source community](https://github.com/readthedocs/)
 - [Code Coverage](https://codecov.io/)
 
+## TRICKS
+- [GitHub Searching code](https://help.github.com/en/articles/searching-code)
+
 ## GIT CODE MANAGEMENT
 List of alternatives source/git code management
 - github.com
