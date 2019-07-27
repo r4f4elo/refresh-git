@@ -74,6 +74,9 @@ Unstages the file, but preserve its contents:
 `$ git reset <file>`
 > Tip: use only `$ git reset` for reset all files.
 
+Discard changes in working directory
+`git checkout <file>`
+
 ## TROUBLESHOOTING
 - Git push results in “Authentication Failed”:
 > When you're using two-factor authentication you a personal access token is required to authenticate to GitHub over HTTPS with Git on the command line or the API. [Find out more](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line).
