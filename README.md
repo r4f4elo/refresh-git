@@ -3,7 +3,7 @@
 		<img src="./assets/refresh-mind-icon.svg"
 			 alt="Refresh Git Icon">
 	</a>
-	<h1>Refresh :octacat:</h1>
+	<h1>Refresh :octocat:</h1>
 	<a href="https://github.com/prafaelo/refresh-git">
 		<img src="https://img.shields.io/static/v1?label=🤹&message=refresh-git&color=blue&labelColor=green"
 			 alt="Travis Build Status">
