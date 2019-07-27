@@ -4,7 +4,7 @@
 		<img  src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" alt="emoji-log" />
 	</a>
     <a href="https://travis-ci.org/prafaelo/refresh-git" >
-		<img alt="Trevis Build Status" src="https://img.shields.io/travis/prafaelo/refresh-git.svg?style=flat&logo=travis& alt="Travis Build Status" />
+		<img src="https://img.shields.io/travis/prafaelo/refresh-git.svg?style=flat&logo=travis& alt="Travis Build Status" />
     </a>
     <h3>Refresh your mind about everything about Git</h3>
 </div>
