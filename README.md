@@ -94,7 +94,7 @@ Discard changes in working directory
 - [Angula commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) 
 
 # Repository Management
-- [Dynamic badges for open source projects](https://shields.io/)
+- [Dynamic badges for open source projects](https://github.com/badges/shields)
 - [Documentation for the open source community](https://github.com/readthedocs/)
 - [Code Coverage](https://codecov.io/)
 
