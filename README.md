@@ -91,17 +91,20 @@ Discard changes in working directory
 # Commit Message Guidelines
 - [Gitmoji - Emoji guide for commit messages](https://gitmoji.carloscuesta.me/)
 - [Emoji Log - Emoji Git commit messages spec standard](https://github.com/ahmadawais/Emoji-Log/)
-- [Angula commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) 
+- [Angula commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
+- [How to get more out of your Git commit message](https://datree.io/git-commit-message/)
 
 # Repository Management
-- [Dynamic badges for open source projects](https://github.com/badges/shields)
-- [Documentation for the open source community](https://github.com/readthedocs/)
-- [Code Coverage](https://codecov.io/)
+- [Shields - Dynamic badges for open source projects](https://github.com/badges/shields)
+- [Read The Docs - Documentation for the open source community](https://github.com/readthedocs/)
+- [CodeCov - Code Coverage](https://codecov.io/)
 
 # Tricks
 - [GitHub Searching Code](https://help.github.com/en/articles/searching-code)
 - [A curated list of GitHub's awesomeness](https://github.com/phillipadsmith/awesome-github)
 - [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 # Git Code Management
 List of alternatives source/git code management
@@ -114,3 +117,7 @@ List of alternatives source/git code management
 - [GitHub - Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [Git site](https://git-scm.com/)
 - [Book: Git Pro](https://github.com/progit/progit2)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [GitHub Training & Guides](https://www.youtube.com/githubguides)
+- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/#basic-git)
