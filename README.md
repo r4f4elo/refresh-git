@@ -99,8 +99,9 @@ Discard changes in working directory
 - [Code Coverage](https://codecov.io/)
 
 # Tricks
-- [GitHub Searching code](https://help.github.com/en/articles/searching-code)
+- [GitHub Searching Code](https://help.github.com/en/articles/searching-code)
 - [A curated list of GitHub's awesomeness](https://github.com/phillipadsmith/awesome-github)
+- [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 # Git Code Management
 List of alternatives source/git code management
