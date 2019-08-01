@@ -37,7 +37,7 @@ This is used to identify the commits you create:
 
 `$ git config --global user.email "[e-mail]"`
 
-> Tip: Not necessary if you will use GitHub Desktop.
+> :bulb: Tip: Not necessary if you will use GitHub Desktop. Use `git config -l` to show all local git param.
 
 
 ## Make Changes
@@ -64,21 +64,21 @@ Tells Git what files will be committed. It's necessary make it before of the `$ 
 Add changes from all tracked and untracked file (new file, modified file and deleted file):
 
 `$ git add -A`
-> Tip: Use this in almost all cases. [Find out more](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add).
+> :bulb: Tip: Use this in almost all cases. [Find out more](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add).
 
 Add changes from only tracked files (modified file and deleted file):
 
 `$ git add -u`
-> Tip: This is useful when the new files are temporary and still not are in .gitignore. For example: log files.
+> :bulb: Tip: This is useful when the new files are temporary and still not are in .gitignore. For example: log files.
 
 Record changes to the local repository:
 
 `$ git commit -m "[summary message]" -m "[description message]"`
-> Tip: You can add many description messages, for example: `$ git commit -m "Summary" -m "msg 1" -m "msg 2" -m "msg 3"`, etc.
+> :bulb: Tip: You can add many description messages, for example: `$ git commit -m "Summary" -m "msg 1" -m "msg 2" -m "msg 3"`, etc.
 
 Unstages the file, but preserve its contents:
 `$ git reset <file>`
-> Tip: use only `$ git reset` for reset all files.
+> :bulb: Tip: use only `$ git reset` for reset all files.
 
 Discard changes in working directory
 
