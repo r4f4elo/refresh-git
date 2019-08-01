@@ -39,6 +39,11 @@ This is used to identify the commits you create:
 
 > :bulb: Tip: Not necessary if you will use GitHub Desktop. Use `git config -l` to show all local git param.
 
+## Manage Repositories
+
+Downloads a project and its entire version history
+
+`$ git clone [url]`
 
 ## Make Changes
 
