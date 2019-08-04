@@ -110,6 +110,7 @@ Discard changes in working directory
 - [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+- [Nock Project - Some idea for GitHub issues template](https://github.com/nock/nock/issues/new/choose)
 
 # Git Code Management
 List of alternatives source/git code management
