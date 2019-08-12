@@ -93,6 +93,10 @@ Discard changes in working directory
 - Git push results in “Authentication Failed”:
 > When you're using two-factor authentication you a personal access token is required to authenticate to GitHub over HTTPS with Git on the command line or the API. [Find out more](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line).
 
+- How to stop Google indexing my Github repository
+> The https://github.com/robots.txt file of GitHub allows the indexing of the blobs in the 'master' branch, but restricts all other branches. So if you don't have a 'master' branch, Google is not supposed to index your pages. Find out more: [1](https://stackoverflow.com/questions/15844905/how-to-stop-google-indexing-my-github-repository), [2](https://help.github.com/en/articles/setting-the-default-branch), [3](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository).
+
+
 # Commit Message Guidelines
 - [Gitmoji - Emoji guide for commit messages](https://gitmoji.carloscuesta.me/)
 - [Emoji Log - Emoji Git commit messages spec standard](https://github.com/ahmadawais/Emoji-Log/)
